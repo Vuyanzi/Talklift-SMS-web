@@ -40,6 +40,12 @@ html, body {
 .nav-link{
   font-size: 1.1em !important;
 }
+.carousel-caption{
+ position: absolute;
+}
+.btn-primary {
+  border:1px solid #6648b1;
+}
 
 
 
