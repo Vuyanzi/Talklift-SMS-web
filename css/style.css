@@ -25,6 +25,23 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+html, body {
+  height:100%;
+  width:100%;
+  font-family:'Roboto' sans-serif;
+  color:#222;
+}
+.navbar {
+  padding: .8rem;
+}
+.navbar-nav li {
+  padding-right: 20px;
+}
+.nav-link{
+  font-size: 1.1em !important;
+}
+
+
 
 /*.nav-link {
   font-family: 'Roboto', sans-serif;
