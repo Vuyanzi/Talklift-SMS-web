@@ -42,6 +42,8 @@ html, body {
 }
 .carousel-caption{
  position: absolute;
+ height:50%;
+ width:50%;
 }
 .btn-primary {
   border:1px solid #6648b1;
@@ -60,6 +62,13 @@ html, body {
 }
 
 
+.carousel-inner {
+  max-height: 500px !important
+}
+.icon{
+  font-size:125px;
+  color: #98B7D7
+}
 
 /*.nav-link {
   font-family: 'Roboto', sans-serif;
