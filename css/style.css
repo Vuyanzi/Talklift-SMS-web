@@ -55,6 +55,10 @@ html, body {
   padding-top: 10rem;
 }
 
+.row-margin{
+  margin-top: 20px;
+}
+
 
 
 /*.nav-link {
