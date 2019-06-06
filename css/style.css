@@ -52,8 +52,12 @@ html, body {
 }
 
 .landPage{
-    max-height: 600px !important;
+    max-height: 650px !important;
 }
+.container{
+  padding-top: 2rem;  
+}
+
 /*.nav-link {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
