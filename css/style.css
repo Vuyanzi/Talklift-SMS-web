@@ -44,24 +44,15 @@ html, body {
 .btn-primary {
   border:1px solid #6648b1;
 }
-.media-body-padding {
-  padding-bottom: 10rem;
-  padding-top: 10rem;
-}
 .landpage-body-padding{
   padding-top: 5rem;  
 }
-.padding{
-  padding-bottom: 10rem;
-  padding-top: 10rem;
-}
-
 .icon{
   font-size: 60px;
 }
 
 .landPage{
-    max-height: 800px !important;
+    max-height: 600px !important;
 }
 /*.nav-link {
   font-family: 'Roboto', sans-serif;
