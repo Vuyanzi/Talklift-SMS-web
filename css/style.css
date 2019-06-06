@@ -53,8 +53,22 @@ html, body {
   padding-top: 10rem;
 }
 
+<<<<<<< HEAD
 .icon{
   font-size: 60px;
+=======
+.row-margin{
+  margin-top: 20px;
+}
+
+
+.carousel-inner {
+  max-height: 500px !important
+}
+.icon{
+  font-size:125px;
+  color: #98B7D7
+>>>>>>> 9ddfdc1265895b7be68ec435af6da90f7c7e24c7
 }
 
 .landPage{
