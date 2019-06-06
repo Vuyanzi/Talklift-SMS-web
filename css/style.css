@@ -56,14 +56,15 @@ html, body {
   padding-top: 10rem;
 }
 
+<<<<<<< HEAD
 .icon{
   font-size: 60px;
+=======
+.row-margin{
+  margin-top: 20px;
 }
 
-.landPage{
-    max-height: 800px !important;
+
+.carousel-inner {
+  max-height: 500px !important
 }
-/*.nav-link {
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px;
-}*/
