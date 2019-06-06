@@ -48,6 +48,9 @@ html, body {
   padding-bottom: 10rem;
   padding-top: 10rem;
 }
+.landpage-body-padding{
+  padding-top: 5rem;  
+}
 .padding{
   padding-bottom: 10rem;
   padding-top: 10rem;
@@ -58,7 +61,7 @@ html, body {
 }
 
 .landPage{
-    max-height: 74.9em !important;
+    max-height: 800px !important;
 }
 /*.nav-link {
   font-family: 'Roboto', sans-serif;
