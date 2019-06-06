@@ -40,11 +40,7 @@ html, body {
 .nav-link{
   font-size: 1.1em !important;
 }
-.carousel-caption{
- position: absolute;
- height:50%;
- width:50%;
-}
+
 .btn-primary {
   border:1px solid #6648b1;
 }
@@ -57,13 +53,13 @@ html, body {
   padding-top: 10rem;
 }
 
-.carousel-inner {
-  max-height: 500px !important
-}
 .icon{
-  font-size:125px;
+  font-size: 60px;
 }
 
+.landPage{
+    max-height: 74.9em !important;
+}
 /*.nav-link {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
